@@ -18,13 +18,12 @@ To implement Principal Component Analysis (PCA) to reduce the dimensionality of 
 ```
 /*
 Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: 
-RegisterNumber:  
+Developed by: JASIM AHAMED A
+RegisterNumber: 212225040143
 */
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
 
 ## Result:
